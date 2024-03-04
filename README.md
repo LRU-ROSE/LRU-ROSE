@@ -6,6 +6,9 @@
 
 <br/>  
 
+## Контакты 
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/lru_roses) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:)
 
 ## Навыки 
 
